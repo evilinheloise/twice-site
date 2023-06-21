@@ -62,3 +62,17 @@ body {
   text-align: center;
   padding: 16px 0;
 }
+
+.integrantes-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+  background-color:#FF5EA2 ;
+}
+
+.rodape-imagem{
+  height: 60px;
+  padding: ;
+}
