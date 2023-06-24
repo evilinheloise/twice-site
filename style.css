@@ -70,9 +70,9 @@ padding: 30px 0;
 
 
 .integrantes-todos{
-  display: grid;
-  gap: 1px;
-  grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    grid-template-rows: 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px;
   
 }
 
