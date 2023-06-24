@@ -70,9 +70,10 @@ body {
 
 .rodape{
   background-color:#FF5EA2 ;
+    text-align: center;
 }
-
 .rodape-imagem{
   height: 60px;
-  padding: ;
+  padding: 12px 0;
+
 }
