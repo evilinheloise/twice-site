@@ -37,7 +37,7 @@ body {
   padding: 24px 0;
 }
 
-.twice-div-conteudo{
+.twice-div{
   width: 35%;
 }
 
@@ -74,8 +74,8 @@ padding: 30px 0;
 
 .integrantes-todos{
  display: grid;
- grid-template-columns: 20% 20% 20% 20%;
-  
+ grid-template-columns: 20% 20% 20% 20% 20%;
+}
 }
 
 .rodape{
