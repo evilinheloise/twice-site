@@ -61,9 +61,7 @@ body {
 .integrantes-div{
   text-align: center;
   padding: 16px 0;
-      display: grid;
-  grid-gap: 1px;
-  grid-template-columns: 150px 150px 150px;
+ 
 
 }
 
@@ -75,7 +73,8 @@ padding: 30px 0;
 
 
 .integrantes-todos{
-
+ display: grid;
+ grid-template-columns: 150px 150px 150px;
   
 }
 
