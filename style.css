@@ -63,6 +63,12 @@ body {
   padding: 16px 0;
 }
 
+.integrantes-titulo{
+  text-align: center;
+padding: 30px 0;
+}
+
+
 .integrantes-todos{
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
